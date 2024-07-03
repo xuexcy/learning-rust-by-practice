@@ -1,3 +1,13 @@
+# `sh run_ch.sh` and open in (localhost](http://localhost:3000/why-exercise.html)
+
+
+
+
+
+
+
+
+
 <div align="center">
     <img src="https://github.com/sunface/rust-by-practice/blob/master/en/assets/header.jpg?raw=true">
 </div>
@@ -7,13 +17,13 @@
     <span> | </span>
     <a href="https://github.com/sunface/rust-by-practice/blob/master/zh-CN/src/why-exercise.md">中文</a>
 </p>
-    
+
 <p align="center">Practice Rust with challenging examples, exercises and projects</p>
-    
+
 <div align="center">
 
-[![Stars Count](https://img.shields.io/github/stars/sunface/rust-by-practice?style=flat)](https://github.com/sunface/rust-by-practice/stargazers) 
-[![studyrut](https://img.shields.io/badge/RustCn-orange)](https://hirust.cn) 
+[![Stars Count](https://img.shields.io/github/stars/sunface/rust-by-practice?style=flat)](https://github.com/sunface/rust-by-practice/stargazers)
+[![studyrut](https://img.shields.io/badge/RustCn-orange)](https://hirust.cn)
 [![LICENSE](https://img.shields.io/badge/license-CC_BY_4.0-green?style=flat)](https://github.com/sunface/rust-by-practice/blob/master/LICENSE)
 </div>
 
