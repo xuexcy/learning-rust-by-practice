@@ -1,0 +1,1 @@
+coerced_static
